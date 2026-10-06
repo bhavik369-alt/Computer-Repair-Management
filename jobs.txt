@@ -1,0 +1,10 @@
+301
+101
+screen
+1000
+Pending
+2
+2
+battery
+1000
+Pending
